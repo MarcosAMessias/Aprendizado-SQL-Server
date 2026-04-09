@@ -1,6 +1,6 @@
 # Aprendizado-SQL-Server
 
-Projeto CineSQL
+## Projeto CineSQL
 Este banco de dados foi criado para praticar a estrutura básica de tabelas.
 
 O que aprendi aqui:
