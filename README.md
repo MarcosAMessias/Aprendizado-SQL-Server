@@ -15,4 +15,4 @@ Inserção de dados básicos.
 * **Integridade de Dados:** Percebi que o SQL depende de IDs exatos. Se eu colocar o ID errado, o sistema 'troca' os atores de filme sem avisar.
 
 ### O que aprendi na parte 4:
-* **No módulo 04, foquei em funções de agregação (SUM, COUNT, AVG) e filtros complexos.
+* No módulo 04, foquei em funções de agregação (SUM, COUNT, AVG) e filtros complexos.
